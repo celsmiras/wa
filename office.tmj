@@ -461,6 +461,17 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":61.6673,
+                 "id":20,
+                 "name":"github_classroom1",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":202.435455766535,
+                 "x":379.169681317701,
+                 "y":289.003230336434
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -543,7 +554,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -569,10 +580,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"main.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -706,12 +717,12 @@
          "columns":13,
          "firstgid":2683,
          "image":"tilesets\/WA_User_Interface.png",
-         "imageheight":672,
+         "imageheight":791,
          "imagewidth":416,
          "margin":0,
          "name":"WA_User_Interface",
          "spacing":0,
-         "tilecount":273,
+         "tilecount":312,
          "tileheight":32,
          "tilewidth":32
         }],
